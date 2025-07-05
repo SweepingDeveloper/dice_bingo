@@ -24,7 +24,7 @@ If you have three strikes, the game is over and you win nothing.
 
 If you decide to continue rolling with one strike, any new boxes lit up add $10,000 to your bank.
 If you decide to continue rolling with two strikes, any new boxes lit up add $20,000 to your bank.
-Any duplicates still add just $2,000 to your bank, but there is no penalty.
+Any duplicates still add just $2,000 to your bank.
 
 If you get five boxes in a row lit, either horizontally, vertically, or diagonally, the game is over and
 win the entire bank plus $1,000,000.
