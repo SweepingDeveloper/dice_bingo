@@ -33,10 +33,10 @@ What I wanted to do with this program is figure out the viability of this game f
 does this game pay out too much money?  Too little money?  Also, how many jackpot winners are produced
 for every x games played?
 
-When I last tested it, I ran it through 10,000 simulated games and produced between 45 - 70 jackpot winners.
+When I last tested the original Python game, I ran it through 10,000 simulated games and produced between 45 - 70 jackpot winners.
 The average winnings over 10,000 simulated games was between $30,000 and $34,000.  Your mileage may vary.
 
-To run the simulation or play the game yourself, download the Python file, it's that simple.  Simply comment or uncomment as directed for the desired game mode.
+For a more visual experience, run the dice_bingo_pygame program.  Press SPACE to stop the dice, or Q to stop the game (presuming you have at least one strike).
 
 I hope you enjoy!
 
