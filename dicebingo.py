@@ -108,11 +108,11 @@ while (games < 10000):
 
 
         # Check for 5 in a row.
+        h_count = 0
+        v_count = 0
+        d1_count = 0
+        d2_count = 0
         for a in range(0,5,1):
-            h_count = 0
-            v_count = 0
-            d1_count = 0
-            d2_count = 0
             if (board[a][a] == 1):
                 d1_count += 1
             else:
