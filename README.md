@@ -10,7 +10,7 @@ Each die contains the numbers 1-5, plus a Strike symbol.
 
 Upon rolling the dice, you get one of three outcomes:
 
-1. You roll a combination that's not on the board (for example, if you roll a 3 for the row and 4 for the column, and that hasn't been lit up, it lights up)
+1. You roll a combination that's not yet lit on the board (for example, if you roll a 3 for the row and 4 for the column, and that hasn't been lit up, it lights up)
 2. You roll a combination that's on the board (for example, you duplicate that roll)
 3. One or two of your dice lands on a Strike, meaning that you can't put it on the board
 
